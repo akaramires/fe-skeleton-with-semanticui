@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/akaramires/Worker-Laravel/master/screenshot.png)
+![](https://raw.githubusercontent.com/akaramires/fe-skeleton-with-semanticui/master/screenshot.png)
